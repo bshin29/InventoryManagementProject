@@ -3,4 +3,6 @@ A full-stack project to create a GUI for a tool shop. An interface is created fo
 
 This project implements an MVC design pattern with a client-server architecture using Java socket programming. 
 
+A database storing all tool information was developed using SQL. 
+
 Languages used: Java, SQL
